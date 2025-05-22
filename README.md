@@ -4,5 +4,5 @@ Bu proje responsive ui' ya sahip bir tur sitesi projesidir. İconlar ve hover ef
 
 # Kullanılan Teknolojiler
 
--html
--css
+- html
+- css
