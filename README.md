@@ -1,13 +1,13 @@
 # Udemig Tour
 
-Bu proje HTML ve CSS kullanılarak oluşturulmuş bir seyahat turu projesidir. Bu proje ile kullanıcıların farklı turistik yerler hakkında bilgi edinmeleri amaçlanmıştır. Bu proje de İconlar ve Hover efektleri kullanılmıştır.
+This project is a travel tour project created using HTML and CSS. This project aims to provide users with information about different touristic places. Icons and Hover effects are used in this project.
 
-# Kullanılan Teknolojiler
+# Teknologies Used
 
 - HTML
 
 - CSS
 
-# EKRAN GÖRÜNTÜSÜ
+# ScreenShot
 
 <img src="udemig-tour.gif"/>
